@@ -1,3 +1,8 @@
+/**
+ * Description for reviewer:
+ * This part took me about 50 minutes
+ */
+
 import React, {Component} from 'react';
 
 class GetDate {
